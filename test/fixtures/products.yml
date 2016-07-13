@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sku: MyString
+  title: MyString
+  artist: MyString
+  format: MyString
+
+two:
+  sku: MyString 2
+  title: MyString 2
+  artist: MyString 2
+  format: MyString 2
